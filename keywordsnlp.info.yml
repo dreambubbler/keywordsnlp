@@ -1,0 +1,8 @@
+name: Keywords NLP
+type: module
+description: 'Migration plugin to perform Keyword NLP using python library.'
+core: 8.x
+package: Migrate
+dependencies:
+  - migrate_plus
+  - migrate_tools
